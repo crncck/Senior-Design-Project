@@ -1,7 +1,7 @@
 # Senior-Design-Project
 
 
-For my final project, I developed a photo-sharing iOS app called ’Artista’ using the pro- gramming language Swift. Users can select a picture from the camera roll and apply different photo effects provided by the app and can upload this image to the app. It is also a social media app where users can like and comment on others’ posts, can follow each other, search for other users, and get notified when another user takes action on their posts or profile.
+For my final project, I developed a photo-sharing iOS app called ’Artista’ using the programming language Swift. Users can select a picture from the camera roll and apply different photo effects provided by the app and can upload this image to the app. It is also a social media app where users can like and comment on others’ posts, can follow each other, search for other users, and get notified when another user takes action on their posts or profile.
 
 I used Firebase for user authentication and Firestore Database for storing data of the users and posts.
 
